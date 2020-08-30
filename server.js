@@ -38,4 +38,4 @@ io.on("connection", (socket) => {
   });
 });
 
-server.listen(PORT, () => console.log(`✌️ Listening to Port ${PORT}`));
+server.listen(process.env.PORT || PORT, () => console.log(`✌️ Listening to Port ${PORT}`));
