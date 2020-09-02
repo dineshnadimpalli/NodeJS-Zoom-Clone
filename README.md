@@ -7,26 +7,21 @@ Demo URL: https://murmuring-lake-56353.herokuapp.com
 
 ## Demo
 
-<center>
 <img src='./demo.png'>
 <img src='demo.gif'/>
-</center>
 <br><br>
 
 ## Project Setup
-
-<br>
-
 <ul>
 
 ### Clone the Project
+
 - <code>git clone https://github.com/dineshnadimpalli/NodeJS-Zoom-Clone.git</code>
 
 <br>
 
 ### Install Dependencies
 - <code>cd NodeJS-Zoom-Clone</code>
-<br>
 - <code>npm install</code>
 
 <br>
